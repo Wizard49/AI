@@ -9,3 +9,4 @@ Document files found here:
 - NLP: https://drive.google.com/file/d/121LGp6fLZAqvpUijsOAqvYVRbQLEvTch/view?usp=sharing
 
 Bonus: Nitro NLP - https://github.com/Nitro-Language-Processing/Workshops-2024?tab=readme-ov-file
+       Stanford CS229 summarization - https://drive.google.com/drive/folders/13Cjst8nbH_s6jeBSdxaXJLtY456dsdOy?usp=sharing
