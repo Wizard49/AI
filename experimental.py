@@ -1,3 +1,4 @@
+"""More detailed approach on dataset use in ANNs"""
 """typical PyTorch pipeline looks like this: """
 # + Design model (input, output, forward pass with different layers)
 # + Construct loss and optimizer
