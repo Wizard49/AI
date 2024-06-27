@@ -1,3 +1,5 @@
+"""Simple approach on dataset use on training simple ANNs"""
+
 import torch
 import torch.nn as nn
 import pandas as pd
