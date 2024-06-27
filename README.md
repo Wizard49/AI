@@ -7,3 +7,5 @@ Document files found here:
 - Deep Learning: https://drive.google.com/file/d/121LGp6fLZAqvpUijsOAqvYVRbQLEvTch/view?usp=sharing
 - CV: https://drive.google.com/file/d/1CN1c5cSG9NNlYczBZSAN1dMCoVdJqkcZ/view?usp=sharing
 - NLP: https://drive.google.com/file/d/121LGp6fLZAqvpUijsOAqvYVRbQLEvTch/view?usp=sharing
+
+Bonus: Nitro NLP - https://github.com/Nitro-Language-Processing/Workshops-2024?tab=readme-ov-file
